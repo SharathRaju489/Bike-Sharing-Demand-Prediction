@@ -35,5 +35,5 @@ They have contracted a consulting company to understand the factors on which the
 
 
 ## Contact
-Created by [@SharathRaju489] - feel free to contact me!
+Created by [SharathRaju489](https://github.com/SharathRaju489) - feel free to contact me!
 
